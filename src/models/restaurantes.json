@@ -1,0 +1,25 @@
+[
+  {
+    "nome": "Cajá",
+    "Culinária": "Regional",
+    "inclusivo": "Lgbtqia",
+    "Localização": "Rua Carneiro Vilela - Aflitos"
+  },
+  {
+    "nome": "Reteteu Comida Honesta",
+    "Culinária": "Nordestina",
+    "inclusivo": "Lgbtqia",
+    "Localização": "Rua Professor Otavio de Freitas - Encruzilhada"
+  },
+  {"nome": "Ramon Bar",
+    "Culinária": "Argentina",
+    "inclusivo": "Lgbtqia",
+    "Localização": "Av. Dezessete de Agosto - Casa Forte"
+  },
+  {
+    "nome": "Orgânico22",
+    "Culinária": "Vegetariana",
+    "inclusivo":"Lgbtqia",
+    "Localização": "Rua Doze de Outubro - Graças"
+  }
+]
